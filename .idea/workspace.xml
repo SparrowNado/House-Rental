@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3168b059-3c75-41b6-8c52-d4b6cccbf69b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/House Rental Application.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HouseRental.java" afterDir="false" />
-    </list>
+    <list default="true" id="3168b059-3c75-41b6-8c52-d4b6cccbf69b" name="Changes" comment="Initial Complete with Minimum Viable Product" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +49,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679386891122</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Complete with Minimum Viable Product">
+      <created>1679419982939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679419982939</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Complete with Minimum Viable Product" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Complete with Minimum Viable Product" />
   </component>
 </project>
